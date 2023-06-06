@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "fascinated-yogurt",
+    "slug": "snack-f46e4fa2-836f-4e0f-95c9-daed1d4f7b25",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mo.ouhami.snackf46e4fa2836f4e0f95c9daed1d4f7b25"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "17af0461-e6ec-4529-a025-ba18a002f221"
+      }
+    }
+  }
+}
